@@ -1,8 +1,8 @@
 ## Tsubasa Arena - Booking Lapangan Futsal
 
 ## Anggota Kelompok
-Mohammad Sofyan Nurseha (2488010031)
-Ashfahani Hasyim (2488010070)
+-Mohammad Sofyan Nurseha (2488010031)
+-Ashfahani Hasyim (2488010070)
 
 ## 📋 Tentang Proyek
 **Tsubasa Arena** adalah platform booking lapangan futsal yang memudahkan customer untuk:
@@ -20,11 +20,11 @@ Ashfahani Hasyim (2488010070)
   
 ## 🛠️ Teknologi
 Proyek ini menggunakan teknologi berikut:
-- **PHP** – untuk logika backend dan koneksi database
-- **MySQL** – untuk menyimpan data lapangan, booking, user, dll
-- **HTML & CSS** – untuk struktur dan tampilan website
-- **JavaScript** – untuk interaktif (CAPTCHA AJAX, preview gambar, dll)
-- **XAMPP** – sebagai local server (Apache + MySQL)
+- **PHP** :untuk logika backend dan koneksi database
+- **MySQL** :untuk menyimpan data lapangan, booking, user, dll
+- **HTML & CSS** :untuk struktur dan tampilan website
+- **JavaScript** :untuk interaktif (CAPTCHA AJAX, preview gambar, dll)
+- **XAMPP** :sebagai local server (Apache + MySQL)
 
 ## 🔧 Fitur Lengkap
 **Untuk Customer:**
