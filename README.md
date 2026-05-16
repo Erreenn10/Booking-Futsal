@@ -1,8 +1,8 @@
 ## Tsubasa Arena - Booking Lapangan Futsal
 
 ## Anggota Kelompok
--Mohammad Sofyan Nurseha (2488010031)
--Ashfahani Hasyim (2488010070)
+- Mohammad Sofyan Nurseha (2488010031)
+- Ashfahani Hasyim (2488010070)
 
 ## 📋 Tentang Proyek
 **Tsubasa Arena** adalah platform booking lapangan futsal yang memudahkan customer untuk:
