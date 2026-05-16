@@ -45,5 +45,5 @@ Proyek ini menggunakan teknologi berikut:
 - Halaman statistik lengkap (grafik lapangan populer, booking per hari, per bulan)
 
 ## 🎥 Video Youtube
-
+[Link Video](https://youtu.be/2tyGLycd6J0?si=UnkiZvLw-MUKfzG3)
   
